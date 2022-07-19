@@ -1,5 +1,5 @@
 # FaceMaskRecognitionWithFlask
-Face-mask recognition project based on Python and Flask
+Face-mask recognition project
 
 <img src="https://i.ibb.co/9c3CcRD/photo-2020-06-06-23-01-30.jpg" height="500">
 
